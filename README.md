@@ -28,7 +28,7 @@ Comes up with a creative integrations that could make your tech stack even more 
 
 **Tools:**
 
-* Notebook of choice 📒
+* Notebook of choice
 * Web Browser of choice
 * Camunda Marketplace
 
@@ -51,3 +51,14 @@ Creates custom integrations, as job workers or connectors
 * IDE of choice 
 * Programming language of choice
 * GitHub
+
+## General Tips
+
+* Decide what your process will be about
+  * Decide for a blueprint project
+  * Or use your own ideas
+* Come up with creative and complex processes and integrations
+* Split up the work
+* Make use of your preferred dev environment (Web Modeler + Play?, try-and-error?, local setup?)
+* Ask for help if necessary!
+
